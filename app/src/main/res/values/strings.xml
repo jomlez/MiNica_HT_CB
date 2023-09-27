@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiNica</string>
+    <string name="boton_inicio">Iniciar sesion</string>
+    <string name="boton_registro">Iniciar sesion</string>
+    <string name="et_correo">Ingrese su correo electronico</string>
+    <string name="et_password">Contraseña</string>
+    <string name="txt_view">Todos los derechos reservados</string>
+</resources>

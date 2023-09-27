@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446199758155",
+    "project_id": "minica-ht",
+    "storage_bucket": "minica-ht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446199758155:android:9febd2414f3666faeefcce",
+        "android_client_info": {
+          "package_name": "com.example.minica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IyTUvml4eF1N1Dxe4ohu55QFpm2GCno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
